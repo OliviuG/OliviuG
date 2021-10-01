@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @OliviuG
 - 👀 I’m interested in solving interesting problems.
-- 🌱 I’m currently learning KDB/Q+ and Swift.
+- 🌱 I’m currently learning Swift.
 - 📫 oliviug@gmail.com
