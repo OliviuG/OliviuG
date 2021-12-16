@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @OliviuG
-- 👀 I’m interested in solving interesting problems.
-- 🌱 I’m currently learning Swift.
 - 📫 oliviug@gmail.com
